@@ -5,4 +5,7 @@ public class Main {
         System.out.println("Ваше время: ");
         System.out.println(new Date());
     }
+    public static void numbers(){
+        System.out.println("Бла бла бла");
+    }
 }
